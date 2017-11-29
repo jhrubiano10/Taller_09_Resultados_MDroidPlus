@@ -1,0 +1,200 @@
+:Monkey: seed=1512074959006 count=100000
+:AllowPackage: org.gnucash.android
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.gnucash.android/.ui.account.AccountsActivity;end
+:Sending Touch (ACTION_DOWN): 0:(249.0,158.0)
+:Sending Touch (ACTION_UP): 0:(248.3734,160.95451)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(654.0,938.0)
+:Sending Touch (ACTION_UP): 0:(649.8436,946.0097)
+:Sending Touch (ACTION_DOWN): 0:(159.0,453.0)
+:Sending Touch (ACTION_UP): 0:(158.8949,438.9084)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.gnucash.android/.ui.account.AccountsActivity;end
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=org.gnucash.android/.ui.transaction.TransactionsActivity } in package org.gnucash.android
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,54.0)
+:Sending Touch (ACTION_UP): 0:(565.8187,50.17545)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2017-11-29 16:33:53.071  system_uptime:899071]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(71.0,323.0)
+:Sending Touch (ACTION_UP): 0:(54.131817,402.5077)
+:Sending Touch (ACTION_DOWN): 0:(573.0,970.0)
+:Sending Touch (ACTION_UP): 0:(569.3995,971.30585)
+:Sending Touch (ACTION_DOWN): 0:(30.0,608.0)
+:Sending Touch (ACTION_UP): 0:(23.639496,589.8501)
+:Sending Touch (ACTION_DOWN): 0:(499.0,869.0)
+:Sending Touch (ACTION_UP): 0:(543.46606,857.5288)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=org.gnucash.android/.ui.transaction.TransactionsActivity } in package org.gnucash.android
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.gnucash.android/.ui.account.AccountsActivity;end
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.gnucash.android/.ui.account.AccountsActivity;end
+:Sending Touch (ACTION_DOWN): 0:(737.0,837.0)
+:Sending Touch (ACTION_UP): 0:(733.31067,835.8129)
+:Sending Touch (ACTION_DOWN): 0:(403.0,574.0)
+:Sending Touch (ACTION_UP): 0:(508.04535,646.64294)
+:Sending Touch (ACTION_DOWN): 0:(125.0,653.0)
+:Sending Touch (ACTION_UP): 0:(129.5799,653.7935)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=org.gnucash.android/.ui.transaction.TransactionsActivity } in package org.gnucash.android
+:Sending Touch (ACTION_DOWN): 0:(579.0,953.0)
+    //[calendar_time:2017-11-29 16:33:53.956  system_uptime:899957]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(645.57355,1015.4306)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,82.0)
+:Sending Touch (ACTION_UP): 0:(236.11732,86.02749)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.gnucash.android/.ui.account.AccountsActivity;end
+:Sending Touch (ACTION_DOWN): 0:(609.0,999.0)
+:Sending Touch (ACTION_UP): 0:(607.8727,999.1748)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    //[calendar_time:2017-11-29 16:33:54.729  system_uptime:900729]
+    // Sending event #300
+    //[calendar_time:2017-11-29 16:33:54.729  system_uptime:900729]
+    // Sending event #300
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=org.gnucash.android/.ui.transaction.TransactionsActivity } in package org.gnucash.android
+:Sending Touch (ACTION_DOWN): 0:(561.0,419.0)
+:Sending Touch (ACTION_UP): 0:(565.9014,419.19806)
+:Sending Touch (ACTION_DOWN): 0:(574.0,763.0)
+:Sending Touch (ACTION_UP): 0:(574.0095,756.8518)
+:Sending Touch (ACTION_DOWN): 0:(685.0,218.0)
+:Sending Touch (ACTION_UP): 0:(683.021,216.71138)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher3/.Launcher } in package com.android.launcher3
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(576.0,735.0)
+:Sending Touch (ACTION_UP): 0:(588.7033,731.5854)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(693.0,59.0)
+:Sending Touch (ACTION_UP): 0:(692.0552,51.368195)
+:Sending Touch (ACTION_DOWN): 0:(18.0,93.0)
+:Sending Touch (ACTION_UP): 0:(15.53653,80.78224)
+:Sending Touch (ACTION_DOWN): 0:(543.0,618.0)
+:Sending Touch (ACTION_UP): 0:(544.48627,615.3874)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(41.0,643.0)
+:Sending Touch (ACTION_UP): 0:(137.41847,702.47107)
+:Sending Touch (ACTION_DOWN): 0:(555.0,112.0)
+    //[calendar_time:2017-11-29 16:33:55.484  system_uptime:901484]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(474.12045,204.6716)
+:Sending Touch (ACTION_DOWN): 0:(257.0,1172.0)
+:Sending Touch (ACTION_UP): 0:(267.2042,1178.0415)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(630.0,797.0)
+:Sending Touch (ACTION_UP): 0:(634.6495,801.6509)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,936.0)
+:Sending Touch (ACTION_UP): 0:(482.29248,939.0007)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,279.0)
+:Sending Touch (ACTION_UP): 0:(747.1156,281.43564)
+:Sending Touch (ACTION_DOWN): 0:(559.0,988.0)
+:Sending Touch (ACTION_UP): 0:(570.02155,977.2906)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(91.0,957.0)
+:Sending Touch (ACTION_UP): 0:(80.46846,953.2412)
+:Sending Touch (ACTION_DOWN): 0:(482.0,719.0)
+:Sending Touch (ACTION_UP): 0:(484.05673,715.33905)
+    //[calendar_time:2017-11-29 16:33:56.307  system_uptime:902307]
+    // Sending event #500
+    //[calendar_time:2017-11-29 16:33:56.307  system_uptime:902307]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(455.0,610.0)
+:Sending Touch (ACTION_UP): 0:(457.10907,611.97485)
+:Sending Touch (ACTION_DOWN): 0:(90.0,486.0)
+:Sending Touch (ACTION_UP): 0:(87.63635,486.7995)
+:Sending Touch (ACTION_DOWN): 0:(572.0,890.0)
+:Sending Touch (ACTION_UP): 0:(609.2852,937.2143)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(156.0,206.0)
+:Sending Touch (ACTION_UP): 0:(139.40797,201.10098)
+:Sending Touch (ACTION_DOWN): 0:(351.0,665.0)
+:Sending Touch (ACTION_UP): 0:(254.23288,702.05457)
+// CRASH: org.gnucash.android (pid 4923)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setChecked(boolean)' on a null object reference
+// Build Label: Android/vbox86p/vbox86p:6.0/MRA58K/genymotion03201937:userdebug/test-keys
+// Build Changelist: eng.genymotion.20170320.193527
+// Build Time: 1490038673000
+// java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setChecked(boolean)' on a null object reference
+// 	at org.gnucash.android.ui.transaction.TransactionsListFragment.onPrepareOptionsMenu(TransactionsListFragment.java:188)
+// 	at android.support.v4.app.Fragment.performPrepareOptionsMenu(Fragment.java:2305)
+// 	at android.support.v4.app.FragmentManagerImpl.dispatchPrepareOptionsMenu(FragmentManager.java:3042)
+// 	at android.support.v4.app.FragmentController.dispatchPrepareOptionsMenu(FragmentController.java:340)
+// 	at android.support.v4.app.FragmentActivity.onPreparePanel(FragmentActivity.java:524)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:103)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.onPreparePanel(AppCompatDelegateImplBase.java:362)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:103)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onPreparePanel(ToolbarActionBar.java:567)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onCreatePanelView(ToolbarActionBar.java:580)
+// 	at android.support.v7.app.AppCompatDelegateImplV9.preparePanel(AppCompatDelegateImplV9.java:1335)
+// 	at android.support.v7.app.AppCompatDelegateImplV9.onKeyDownPanel(AppCompatDelegateImplV9.java:1475)
+// 	at android.support.v7.app.AppCompatDelegateImplV9.onKeyDown(AppCompatDelegateImplV9.java:991)
+// 	at android.support.v7.app.AppCompatDelegateImplV9.dispatchKeyEvent(AppCompatDelegateImplV9.java:958)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.dispatchKeyEvent(AppCompatDelegateImplBase.java:318)
+// 	at android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:59)
+// 	at com.android.internal.policy.PhoneWindow$DecorView.dispatchKeyEvent(PhoneWindow.java:2310)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4127)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4089)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3787)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3844)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3820)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:3981)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2253)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1874)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1865)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:2230)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+// 
+** Monkey aborted due to error.
+Events injected: 553
+:Sending rotation degree=0, persist=false
+:Dropped: keys=1 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=3971ms (0ms mobile, 0ms wifi, 3971ms not connected)
+** System appears to have crashed at event 553 of 100000 using seed 1512074959006
